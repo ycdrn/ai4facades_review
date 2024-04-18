@@ -1,7 +1,7 @@
-# FACADE-AI TOPIC MODEL
+# FACADE-AI Literature Review
 
 ## Description
-Provide a brief description of what the project does and the problem it solves.
+This repository contains the datasets, Python notebook, and pre-trained topic model used in the publication.
 
 ## Model Setup Instructions
 
