@@ -1,0 +1,2 @@
+3.8.18 | packaged by conda-forge | (default, Dec 23 2023, 17:25:47) 
+[Clang 16.0.6 ]
