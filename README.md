@@ -1,7 +1,7 @@
 # FACADE-AI Literature Review
 
 ## Description
-This repository contains the datasets, Python notebook, and pre-trained topic model used in the publication.
+This repository contains the dataset, the pre-trained topic model, and a Python notebook to demonstrate the use of the pre-trained model.
 
 ## Model Setup Instructions
 
@@ -38,3 +38,5 @@ After setting up the environment, you can load the model using the following ste
   ```python
   from bertopic import BERTopic
   topic_model = BERTopic.load("path/to/my/model_dir")
+
+Alternatively, take a look at the Python notebook for demonstration.
