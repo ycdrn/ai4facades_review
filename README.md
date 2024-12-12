@@ -1,7 +1,11 @@
-# FACADE-AI Literature Review
+# A Review on AI Applications for Facades
+
+[Ayca Duran](https://systems.arch.ethz.ch/ayca-duran), [Christoph Waibel](https://systems.arch.ethz.ch/christoph-waibel), [Valeria Piccioni](https://systems.arch.ethz.ch/valeria-piccioni), [Bernd Bickel](https://berndbickel.com/about-me), [Arno Schlueter](https://systems.arch.ethz.ch/arno-schlueter)
+
+[[ Paper ]](https://www.sciencedirect.com/science/article/pii/S0360132324011521) – Published in Building and Environment, February 2025
 
 ## Description
-This repository contains the dataset, the pre-trained topic model, and a Python notebook to demonstrate the use of the pre-trained model.
+This repository contains the dataset, the pre-trained topic model, and a Python notebook to demonstrate the use of the pre-trained model. 
 
 ## Model Setup Instructions
 
@@ -40,3 +44,18 @@ After setting up the environment, you can load the model using the following ste
   topic_model = BERTopic.load("path/to/my/model_dir")
 
 Alternatively, take a look at the Python notebook for demonstration.
+
+## Citation
+If using our dataset/model, please cite us as follows:
+```bibtex
+@article{DURAN2025112310,
+title = {A review on artificial intelligence applications for facades},
+journal = {Building and Environment},
+volume = {269},
+pages = {112310},
+year = {2025},
+issn = {0360-1323},
+doi = {https://doi.org/10.1016/j.buildenv.2024.112310},
+author = {Ayca Duran and Christoph Waibel and Valeria Piccioni and Bernd Bickel and Arno Schlueter},
+}
+```
