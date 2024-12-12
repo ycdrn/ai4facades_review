@@ -1,4 +1,4 @@
-#A Review on AI Applications for Facades
+# A Review on AI Applications for Facades
 
 [Ayca Duran](https://systems.arch.ethz.ch/ayca-duran), [Christoph Waibel](https://systems.arch.ethz.ch/christoph-waibel), [Valeria Piccioni](https://systems.arch.ethz.ch/valeria-piccioni), [Bernd Bickel](https://berndbickel.com/about-me), [Arno Schlueter](https://systems.arch.ethz.ch/arno-schlueter)
 
