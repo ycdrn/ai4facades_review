@@ -58,14 +58,14 @@ Alternatively, take a look at the Python notebook for demonstration.
 If using our dataset/model, please cite us as follows:
 ```bibtex
 @article{DURAN2025112310,
-title = {A review on artificial intelligence applications for facades},
-journal = {Building and Environment},
-volume = {269},
-pages = {112310},
-year = {2025},
-issn = {0360-1323},
-doi = {https://doi.org/10.1016/j.buildenv.2024.112310},
-author = {Ayca Duran and Christoph Waibel and Valeria Piccioni and Bernd Bickel and Arno Schlueter},
+  title     = {A review on artificial intelligence applications for facades},
+  journal   = {Building and Environment},
+  volume    = {269},
+  pages     = {112310},
+  year      = 2025,
+  issn      = {0360-1323},
+  doi       = {10.1016/j.buildenv.2024.112310},
+  author    = {Ayca Duran and Christoph Waibel and Valeria Piccioni and Bernd Bickel and Arno Schlueter}
 }
 ```
 
